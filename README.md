@@ -38,3 +38,4 @@ Se evaluará:
 - [Documentación de Git](https://git-scm.com/doc)
 - [Documentación de HTML](https://developer.mozilla.org/es/docs/Web/HTML)
 - [Documentación de CSS](https://developer.mozilla.org/es/docs/Web/CSS)
+- [Script para operadores](https://drive.google.com/file/d/1o-Cfwweim5HhPCDdTRu-V7CzgizaeeHL/view?usp=sharing)
