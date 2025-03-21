@@ -11,7 +11,7 @@ En esta tarea, deberás clonar un repositorio de GitHub y crear los archivos nec
   - Nombre del repositorio: PRUEBAFINAL-UF1305
 - Clona el repositorio en tu carpeta de trabajo local
 
-### 2. Crear archivos necesarios
+### 2. Crear archivos necesarios según los scripts
 Deberás crear los siguientes archivos:
 - Archivo HTML principal
 - Archivo CSS para los estilos
